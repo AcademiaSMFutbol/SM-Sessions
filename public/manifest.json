@@ -1,0 +1,19 @@
+{
+  "name": "SM Sessions",
+  "short_name": "SM Sessions",
+  "description": "Generador de sesiones de entrenamiento de fútbol",
+  "start_url": "/SM-Sessions/",
+  "scope": "/SM-Sessions/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/SM-Sessions/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
